@@ -3,11 +3,14 @@
 from sys import argv
 
 script, user_name, user_id = argv
-prompt = '>> '
+
+# prompt = '>> '
+# New prompt by letting us know which script we are running when passing prompt through input
+prompt = f"{script} ({user_name})>>> "
 # Experimental prompt
-prompt2 = "Location plz: "
+# prompt2 = "Location plz: " 
 # I kid around
-prompt3 = "And why is it a sweet Ubuntu 18.04 PC? "
+# prompt3 = "And why is it a sweet Ubuntu 18.04 PC? "
 
 print(f"Hi {user_name}, userid: {user_id}, I'm the {script} script")
 print("I'd like to ask you a few questions.")
@@ -19,10 +22,10 @@ likes = input(prompt)
 
 print(f"Where do you live {user_name}?")
 # Experimental prompt
-lives = input(prompt2)
+lives = input(prompt)
 
 print("What kind of computer do you have?")
-computer = input(prompt3)
+computer = input(prompt)
 
 # Making the input prompt assigned to a var allowed me to f print
 # them from the previous responses.
