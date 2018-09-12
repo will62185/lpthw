@@ -42,3 +42,7 @@ print_a_line(current_line, current_file)
 
 current_line = current_line + 1
 print_a_line(current_line, current_file)
+
+
+# The f in the function can be replaced with anything it seemes.
+# I tried r in place and it worked.
