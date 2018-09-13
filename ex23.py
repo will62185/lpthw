@@ -1,0 +1,1 @@
+# Exercise 23 - Strings, Bytes, and Character Encodings
