@@ -2,4 +2,4 @@
 
 ## Following along the book while learning Python 3
 
-[Get your :book: copy here.](https://learnpythonthehardway.org/book/)
+[Get a copy of the :book: here.](https://learnpythonthehardway.org/book/)
