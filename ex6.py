@@ -18,13 +18,13 @@ print(y)
 print(f"I said: {x}")
 print(f"I also said: '{y}'")
 
-hailarious = False
-# It seems you need to have an empty curl brace in order to add hailarious
+hilarious = False
+# It seems you need to have an empty curly brace in order to add hilarious
 # since its a bool value into a str value
 joke_evaluation = "Isn't that joke so funny?! {}"
 
 # Changing .format() can break this line 
-print(joke_evaluation.format(hailarious))
+print(joke_evaluation.format(hilarious))
 
 w = "This is the left side of..."
 e = "a string with a right side."
