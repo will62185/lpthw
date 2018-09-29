@@ -30,3 +30,27 @@
 # out False because of the empty brackets in joke_evaluation.
 # example print(joke_evaluation.format(hilarious))
 # joke_evaluation = "Isn't that joke so funny?! {}"
+
+# EX 7 - More Printing
+# .format('snow') adds snow where the {} exist
+# print("." * 10) = prints . ten times
+# use single quotes ' ' for short variables and double quotes " " for long variables
+# \n adds a new line
+
+# EX 8 - Printing, Printing
+# We set the formatter variable to 4 {}
+# We used .format to the variable formatter and passed in arguments 1,2,3,4
+# It seems everytime .format is used it will need 4 arguments because of the {}
+# Bool values don't need to be wrapped in " " but they do need to be capitalized
+
+# EX 9 - Printing, Printing, Printing
+# \n is a new line
+# print("Some text here", variable)
+# passing in the variable set prior
+# print(""" """) prints everything inside the block """ """ or ''' '''
+
+# EX 10 - What was that?
+# \t adds a tab when printing the variable
+# \n adds a new line ^ ^ ^
+# \ is an escape character so you will need to double up \\ to escape a \ or 
+# example: print("\"It\'s\" me")
