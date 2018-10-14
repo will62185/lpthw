@@ -1,97 +1,97 @@
 Afrikaans
-áŠ áˆ›áˆ­áŠ›
-ÐÒ§ÑÑˆÓ™Ð°
-Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©
-AragonÃ©s
+አማርኛ
+Аҧсшәа
+العربية
+Aragonés
 Arpetan
-AzÉ™rbaycanca
+Azərbaycanca
 Bamanankan
-à¦¬à¦¾à¦‚à¦²à¦¾
-BÃ¢n-lÃ¢m-gÃº
-Ð‘ÐµÐ»Ð°Ñ€ÑƒÑÐºÐ°Ñ
-Ð‘ÑŠÐ»Ð³Ð°Ñ€ÑÐºÐ¸
+বাংলা
+Bân-lâm-gú
+Беларуская
+Български
 Boarisch
 Bosanski
-Ð‘ÑƒÑ€ÑÐ°Ð´
-CatalÃ 
-Ð§Ó‘Ð²Ð°ÑˆÐ»Ð°
-ÄŒeÅ¡tina
+Буряад
+Català
+Чӑвашла
+Čeština
 Cymraeg
 Dansk
 Deutsch
 Eesti
-Î•Î»Î»Î·Î½Î¹ÎºÎ¬
-EspaÃ±ol
+Ελληνικά
+Español
 Esperanto
-ÙØ§Ø±Ø³ÛŒ
-FranÃ§ais
+فارسی
+Français
 Frysk
 Gaelg
-GÃ idhlig
+Gàidhlig
 Galego
-í•œêµ­ì–´
-Õ€Õ¡ÕµÕ¥Ö€Õ¥Õ¶
-à¤¹à¤¿à¤¨à¥à¤¦à¥€
+한국어
+Հայերեն
+हिन्दी
 Hrvatski
 Ido
 Interlingua
 Italiano
-×¢×‘×¨×™×ª
-à²•à²¨à³à²¨à²¡
+עברית
+ಕನ್ನಡ
 Kapampangan
-áƒ¥áƒáƒ áƒ—áƒ£áƒšáƒ˜
-ÒšÐ°Ð·Ð°Ò›ÑˆÐ°
-KreyÃ²l ayisyen
-LatgaÄ¼u
+ქართული
+Қазақша
+Kreyòl ayisyen
+Latgaļu
 Latina
-LatvieÅ¡u
-LÃ«tzebuergesch
-LietuviÅ³
+Latviešu
+Lëtzebuergesch
+Lietuvių
 Magyar
-ÐœÐ°ÐºÐµÐ´Ð¾Ð½ÑÐºÐ¸
+Македонски
 Malti
-à¤®à¤°à¤¾à¤ à¥€
-áƒ›áƒáƒ áƒ’áƒáƒšáƒ£áƒ áƒ˜
-Ù…Ø§Ø²ÙØ±ÙˆÙ†ÛŒ
+मराठी
+მარგალური
+مازِرونی
 Bahasa Melayu
-ÐœÐ¾Ð½Ð³Ð¾Ð»
+Монгол
 Nederlands
-à¤¨à¥‡à¤ªà¤¾à¤² à¤­à¤¾à¤·à¤¾
-æ—¥æœ¬èªž
-Norsk bokmÃ¥l
+नेपाल भाषा
+日本語
+Norsk bokmål
 Nouormand
 Occitan
-OÊ»zbekcha/ÑžÐ·Ð±ÐµÐºÑ‡Ð°
-à¨ªà©°à¨œà¨¾à¨¬à©€
-Ù¾Ù†Ø¬Ø§Ø¨ÛŒ
-Ù¾ÚšØªÙˆ
-PlattdÃ¼Ã¼tsch
+Oʻzbekcha/ўзбекча
+ਪੰਜਾਬੀ
+پنجابی
+پښتو
+Plattdüütsch
 Polski
-PortuguÃªs
-RomÃ¢nÄƒ
+Português
+Română
 Romani
-Ð ÑƒÑÑÐºÐ¸Ð¹
+Русский
 Seeltersk
 Shqip
 Simple English
-SlovenÄina
-Ú©ÙˆØ±Ø¯ÛŒÛŒ Ù†Ø§ÙˆÛ•Ù†Ø¯ÛŒ
-Ð¡Ñ€Ð¿ÑÐºÐ¸ / srpski
+Slovenčina
+کوردیی ناوەندی
+Српски / srpski
 Suomi
 Svenska
 Tagalog
-à®¤à®®à®¿à®´à¯
-à¸ à¸²à¸©à¸²à¹„à¸—à¸¢
+தமிழ்
+ภาษาไทย
 Taqbaylit
-Ð¢Ð°Ñ‚Ð°Ñ€Ñ‡Ð°/tatarÃ§a
-à°¤à±†à°²à±à°—à±
-Ð¢Ð¾Ò·Ð¸ÐºÓ£
-TÃ¼rkÃ§e
-Ð£ÐºÑ€Ð°Ñ—Ð½ÑÑŒÐºÐ°
-Ø§Ø±Ø¯Ùˆ
-Tiáº¿ng Viá»‡t
-VÃµro
-æ–‡è¨€
-å´è¯­
-×™×™Ö´×“×™×©
-ä¸­æ–‡
+Татарча/tatarça
+తెలుగు
+Тоҷикӣ
+Türkçe
+Українська
+اردو
+Tiếng Việt
+Võro
+文言
+吴语
+ייִדיש
+中文

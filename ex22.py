@@ -7,7 +7,7 @@
 # EX2 - Comments:
 # Comments are added with a #
 # There aren't really block comments in Python
-# just as another # per line
+# just another # per line
 
 # EX3 - Numbers and Math:
 # Python can do math 
@@ -17,6 +17,7 @@
 # EX4 - Variables and Names
 # Assigning variables using an = 
 # Example: test = 200
+# varilable names should be lower case and a _ instead of a space
 
 # EX5 - More Variables and Printing
 # Variables still are assigned using =
@@ -54,3 +55,5 @@
 # \n adds a new line ^ ^ ^
 # \ is an escape character so you will need to double up \\ to escape a \ or 
 # example: print("\"It\'s\" me")
+
+# Exercise 11 - Asking Questions
