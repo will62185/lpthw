@@ -1,4 +1,4 @@
-# Exercise 29 - Else and If
+# Exercise 30 - Else and If
 
 people = 30
 cars = 40
@@ -6,7 +6,7 @@ trucks = 15
 
 # Compares cars to people and if > it will print the first statement
 # if not it will print the second statement
-# if neither it will print the third statment
+# if neither it will print the third statement
 if cars > people:
     print("We should take the cars.")
 elif cars < people:
@@ -16,7 +16,7 @@ else:
 
 # Compares trucks to cars and if > it will print the first statement
 # if not it will print the second statement
-# if neither it will print the third statment
+# if neither it will print the third statement
 if trucks > cars:
     print("That's too many trucks.")   
 elif trucks < cars:
