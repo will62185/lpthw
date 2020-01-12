@@ -17,7 +17,7 @@
 # EX4 - Variables and Names
 # Assigning variables using an = 
 # Example: test = 200
-# varilable names should be lower case and a _ instead of a space
+# variable names should be lower case and a _ instead of a space
 
 # EX5 - More Variables and Printing
 # Variables still are assigned using =
