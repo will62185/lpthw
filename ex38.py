@@ -3,11 +3,12 @@
 ten_things = "Apples Oranges Crows Telephone Light Sugar"
 print("Wait there are not 10 things in that list. Let's fix that.")
 
-stuff = ten_things.split(' ')
+stuff = ten_things.split(' ') # Split the list on each word, adds a comma
 more_stuff = ["Day", "Night", "Song", "Frisbee", 
               "Corn", "Banana", "Girl", "Boy"]
 
-while len(stuff) != 10:
+# Some things in Python need to be written like len(stuff) and other times its stuff.pop()
+while len(stuff) != 10: # Loop continues until it hits 10
     next_one = more_stuff.pop()
     print("Adding: ", next_one)
     stuff.append(next_one)
