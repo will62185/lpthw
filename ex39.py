@@ -84,7 +84,7 @@ for abbrev, city in list(cities.items()):
 print("-" * 10)
 for state, abbrev in list(states.items()):
     print(f"{state} state is abbreviated {abbrev}")
-    print(f"and has city {cities}[abbrev]")
+    print(f"and has city {cities[abbrev]}")
     print("-" * 10)
 
 # safely get an abbreviation by state that might not be there
